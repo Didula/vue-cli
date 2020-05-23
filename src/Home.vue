@@ -6,6 +6,7 @@
 <script>
     import ServerStatus from "./ServerStatus";
     export default {
+        // this is a local component.
         components: {
             'app-server-status': ServerStatus
         }
